@@ -40,18 +40,24 @@ Class distribution: 360 customers are No High Risk (94.7%) and 20 customers are 
 ## Project Structure
 
 ```
-asiignment2/
+assignments/
 |
-|-- assignment2_investment_risk.ipynb   Main notebook with full pipeline
+|-- week-01/
+|   |-- README.md
 |
-|-- data/
-|   |-- financial_customer_investment_risk_dataset.csv   Raw input dataset
-|
-|-- output/
-|   |-- cleaned_dataset.csv            Dataset after removing duplicates and filling missing values
-|   |-- classification_outputs.csv     Actual vs predicted values for all test samples
-|
-|-- README.md                          This file
+|-- week-02-ML-Pipeline/
+    |-- financial-customer-investment-risk-a2/
+        |
+        |-- data/
+        |   |-- financial_customer_investment_risk_dataset.csv   Raw input dataset in CSV format
+        |   |-- financial_customer_investment_risk_dataset.xls   Same dataset in Excel format
+        |
+        |-- output/
+        |   |-- cleaned_dataset.csv            Dataset after removing duplicates and filling missing values
+        |   |-- classification_outputs.csv     Actual vs predicted values for all test samples
+        |
+        |-- assignment2_investment_risk.ipynb   Main notebook with full pipeline
+        |-- README.md                           This file
 ```
 
 
