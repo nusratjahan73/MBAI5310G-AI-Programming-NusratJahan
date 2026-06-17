@@ -1,0 +1,351 @@
+booking_id,guest_age,age_group,guest_type,region,booking_channel,room_type,number_of_guests,number_of_nights,lead_time_days,average_daily_rate,special_requests,previous_cancellations,deposit_type,is_weekend_stay,booking_cancelled
+H0001,25,18-25,Family,West,Online Travel Agency,Standard,2,5,50,298.33,4,2,No Deposit,No,1
+H0002,29,26-35,Couple,East,Corporate,Standard,1,10,226,358.85,2,0,No Deposit,No,1
+H0003,47,36-50,Family,East,Phone,Standard,1,9,15,304.06,3,0,No Deposit,Yes,0
+H0004,68,51+,Family,North,Online Travel Agency,Standard,2,5,120,249.4,3,0,No Deposit,Yes,0
+H0005,60,51+,Business,North,Online Travel Agency,Deluxe,3,7,102,356.47,1,0,No Deposit,Yes,1
+H0006,44,36-50,Couple,North,Phone,Standard,3,2,1,409.92,3,0,No Deposit,Yes,0
+H0007,61,51+,Family,East,Online Travel Agency,Suite,3,9,216,165.16,0,0,No Deposit,Yes,1
+H0008,52,51+,Solo,West,Online Travel Agency,Standard,4,3,152,283.36,1,0,No Deposit,Yes,1
+H0009,58,51+,Family,East,Corporate,Standard,4,9,215,221.13,1,0,No Deposit,Yes,1
+H0010,43,36-50,Business,South,Phone,Standard,4,9,95,134.93,1,0,Partial Deposit,Yes,0
+H0011,57,51+,Couple,South,Direct,Standard,5,1,68,267.97,3,0,Non-refundable,Yes,0
+H0012,57,51+,Business,South,Direct,Suite,1,10,110,382.56,1,0,No Deposit,Yes,0
+H0013,55,51+,Solo,West,Online Travel Agency,Standard,3,1,153,275.33,1,0,Non-refundable,Yes,0
+H0014,77,51+,Solo,South,Online Travel Agency,Standard,5,7,253,253.4,1,1,Partial Deposit,Yes,1
+H0015,22,18-25,Solo,West,Online Travel Agency,Standard,5,10,42,380.24,0,0,No Deposit,No,0
+H0016,36,36-50,Solo,North,Corporate,Standard,3,1,230,310.04,3,1,No Deposit,No,1
+H0017,25,18-25,Solo,East,Phone,Standard,3,2,134,302.2,1,0,Partial Deposit,No,0
+H0018,37,36-50,Family,South,Online Travel Agency,Standard,4,12,126,366.47,2,3,Partial Deposit,No,1
+H0019,48,36-50,Family,North,Online Travel Agency,Deluxe,3,2,42,384.92,4,0,Non-refundable,Yes,0
+H0020,44,36-50,Couple,South,Online Travel Agency,Deluxe,2,5,147,381.46,4,0,Partial Deposit,Yes,1
+H0021,40,36-50,Solo,East,Direct,Standard,3,12,20,139.66,5,0,No Deposit,Yes,0
+H0022,49,36-50,Business,East,Online Travel Agency,Standard,1,4,19,195.27,4,1,Partial Deposit,Yes,0
+H0023,33,26-35,Couple,South,Online Travel Agency,Standard,4,4,48,369.94,5,1,No Deposit,Yes,0
+H0024,44,36-50,Solo,West,Online Travel Agency,Standard,5,4,179,166.13,4,2,No Deposit,Yes,1
+H0025,46,36-50,Family,South,Phone,Deluxe,5,3,36,169.07,3,0,Non-refundable,Yes,0
+H0026,21,18-25,Solo,West,Online Travel Agency,Standard,3,7,84,123.85,1,0,No Deposit,No,0
+H0027,24,18-25,Business,North,Online Travel Agency,Suite,3,4,172,163.02,3,0,Non-refundable,No,0
+H0028,44,36-50,Couple,East,Direct,Deluxe,4,3,248,321.62,2,0,No Deposit,Yes,0
+H0029,29,26-35,Couple,South,Online Travel Agency,Deluxe,5,11,32,191.43,2,0,No Deposit,Yes,0
+H0030,56,51+,Couple,South,Online Travel Agency,Deluxe,4,2,31,364.82,1,0,Partial Deposit,No,0
+H0031,35,26-35,Family,North,Online Travel Agency,Standard,3,8,221,158.45,5,0,No Deposit,Yes,1
+H0032,22,18-25,Family,East,Online Travel Agency,Standard,3,2,45,78.61,2,0,Non-refundable,Yes,0
+H0033,50,36-50,Business,North,Online Travel Agency,Deluxe,4,9,59,77.15,0,0,No Deposit,Yes,0
+H0034,68,51+,Solo,North,Direct,Suite,5,3,201,382.23,4,0,No Deposit,Yes,1
+H0035,61,51+,Couple,North,Corporate,Standard,5,4,29,324.4,3,1,No Deposit,Yes,0
+H0036,38,36-50,Business,South,Online Travel Agency,Standard,2,8,115,129.59,5,2,Partial Deposit,No,1
+H0037,20,18-25,Business,West,Online Travel Agency,Deluxe,4,4,72,400.98,2,0,No Deposit,Yes,1
+H0038,29,26-35,Couple,East,Corporate,Deluxe,3,4,97,276.47,2,1,Partial Deposit,Yes,1
+H0039,38,36-50,Business,North,Online Travel Agency,Standard,4,3,10,153.57,1,1,No Deposit,No,1
+H0040,19,18-25,Family,South,Direct,Standard,3,10,183,116.13,2,1,Non-refundable,No,0
+H0041,49,36-50,Family,East,Online Travel Agency,Standard,3,12,34,417.32,3,0,No Deposit,No,0
+H0042,29,26-35,Family,East,Online Travel Agency,Standard,5,1,115,360.69,5,1,No Deposit,Yes,0
+H0043,40,36-50,Business,North,Online Travel Agency,Deluxe,3,11,129,205.64,0,0,No Deposit,No,1
+H0044,34,26-35,Family,West,Online Travel Agency,Suite,5,6,114,398.9,1,0,No Deposit,Yes,1
+H0045,27,26-35,Solo,West,Direct,Suite,1,11,149,81.2,3,0,No Deposit,No,0
+H0046,19,18-25,Family,East,Direct,Standard,3,7,73,359.15,5,1,Partial Deposit,No,0
+H0047,54,51+,Business,South,Corporate,Standard,4,6,180,398.95,2,0,Partial Deposit,Yes,1
+H0048,71,51+,Solo,East,Online Travel Agency,Standard,2,12,42,124.54,2,0,Non-refundable,No,0
+H0049,47,36-50,Couple,East,Corporate,Standard,4,4,186,163.79,2,0,Non-refundable,Yes,1
+H0050,47,36-50,Couple,East,Online Travel Agency,Standard,1,3,105,309.9,4,0,No Deposit,No,1
+H0051,59,51+,Couple,West,Corporate,Standard,4,4,183,369.46,5,0,No Deposit,Yes,1
+H0052,73,51+,Business,West,Online Travel Agency,Deluxe,5,3,45,218.14,3,0,Partial Deposit,No,0
+H0053,70,51+,Solo,West,Direct,Suite,1,6,235,134.8,0,0,No Deposit,Yes,1
+H0054,71,51+,Solo,South,Phone,Deluxe,2,12,25,299.35,3,2,No Deposit,No,0
+H0055,54,51+,Couple,South,Online Travel Agency,Standard,4,7,151,257.98,5,1,Partial Deposit,Yes,1
+H0056,70,51+,Couple,East,Phone,Deluxe,3,7,259,189.08,3,1,No Deposit,No,1
+H0057,28,26-35,Solo,West,Direct,Standard,5,5,164,100.89,2,0,Non-refundable,Yes,0
+H0058,53,51+,Family,West,Online Travel Agency,Standard,3,10,60,297.56,2,0,Non-refundable,No,0
+H0059,76,51+,Couple,East,Direct,Standard,5,6,88,165.88,4,0,No Deposit,No,0
+H0060,55,51+,Business,West,Online Travel Agency,Standard,2,6,229,259.57,3,0,No Deposit,No,1
+H0061,52,51+,Family,South,Direct,Standard,4,10,8,131.01,2,0,Partial Deposit,Yes,0
+H0062,78,51+,Business,North,Phone,Standard,3,10,137,263.59,2,2,No Deposit,Yes,1
+H0063,45,36-50,Couple,East,Corporate,Standard,5,5,153,192.68,0,0,No Deposit,No,1
+H0064,58,51+,Business,East,Online Travel Agency,Deluxe,2,12,7,125.17,1,0,No Deposit,No,0
+H0065,54,51+,Family,West,Corporate,Standard,1,3,152,282.14,1,3,No Deposit,Yes,1
+H0066,46,36-50,Solo,West,Direct,Standard,2,4,208,360.3,3,0,Non-refundable,Yes,0
+H0067,32,26-35,Business,South,Online Travel Agency,Standard,5,9,230,108.77,5,0,No Deposit,Yes,1
+H0068,65,51+,Family,North,Direct,Standard,2,3,62,180.66,3,1,Partial Deposit,Yes,0
+H0069,42,36-50,Family,South,Direct,Suite,3,1,21,404.71,5,0,Partial Deposit,No,0
+H0070,61,51+,Business,North,Phone,Standard,5,11,186,126.98,5,1,No Deposit,Yes,1
+H0071,21,18-25,Solo,South,Direct,Standard,1,11,153,172.11,5,0,No Deposit,No,1
+H0072,74,51+,Solo,North,Online Travel Agency,Standard,4,1,172,369.07,4,0,No Deposit,Yes,0
+H0073,37,36-50,Family,North,Online Travel Agency,Standard,3,4,14,293.91,2,0,No Deposit,Yes,0
+H0074,18,18-25,Couple,West,Corporate,Standard,3,12,178,228.8,0,0,No Deposit,No,1
+H0075,20,18-25,Solo,North,Online Travel Agency,Standard,2,11,98,373.5,2,1,No Deposit,No,1
+H0076,74,51+,Couple,East,Corporate,Standard,4,3,12,222.37,1,0,No Deposit,No,0
+H0077,19,18-25,Business,East,Phone,Standard,4,7,119,143.43,5,0,Partial Deposit,Yes,0
+H0078,52,51+,Business,West,Online Travel Agency,Deluxe,4,9,157,179.57,1,0,No Deposit,Yes,0
+H0079,62,51+,Solo,North,Corporate,Standard,3,5,237,85.07,1,0,Partial Deposit,No,1
+H0080,66,51+,Family,West,Online Travel Agency,Standard,5,5,252,174.56,2,0,No Deposit,No,1
+H0081,64,51+,Solo,West,Online Travel Agency,Suite,2,6,260,337.0,3,1,No Deposit,Yes,1
+H0082,26,26-35,Couple,North,Direct,Standard,1,7,33,292.24,5,3,No Deposit,No,1
+H0083,29,26-35,Couple,West,Online Travel Agency,Standard,4,12,211,133.38,0,0,No Deposit,No,1
+H0084,42,36-50,Couple,East,Online Travel Agency,Standard,4,4,101,228.91,5,0,Partial Deposit,Yes,0
+H0085,32,26-35,Business,East,Online Travel Agency,Deluxe,5,5,127,397.98,3,0,Partial Deposit,Yes,0
+H0086,78,51+,Couple,North,Online Travel Agency,Deluxe,1,3,125,168.2,5,0,No Deposit,No,1
+H0087,71,51+,Solo,East,Direct,Deluxe,4,11,8,143.37,4,1,No Deposit,Yes,0
+H0088,55,51+,Solo,West,Phone,Standard,5,2,14,237.58,5,0,Non-refundable,No,0
+H0089,68,51+,Business,North,Direct,Deluxe,5,12,67,326.37,5,0,No Deposit,Yes,0
+H0090,29,26-35,Solo,East,Online Travel Agency,Suite,4,9,114,307.21,1,0,No Deposit,No,1
+H0091,66,51+,Business,South,Online Travel Agency,Standard,3,8,197,408.31,4,1,Partial Deposit,No,1
+H0092,48,36-50,Solo,North,Online Travel Agency,Standard,5,11,91,303.52,5,0,No Deposit,Yes,0
+H0093,57,51+,Business,North,Online Travel Agency,Standard,2,10,244,134.73,0,2,No Deposit,Yes,1
+H0094,32,26-35,Couple,North,Online Travel Agency,Standard,2,2,183,273.38,0,1,No Deposit,No,1
+H0095,71,51+,Solo,South,Online Travel Agency,Deluxe,1,7,17,,4,2,No Deposit,Yes,1
+H0096,40,36-50,Business,North,Online Travel Agency,Standard,2,4,189,278.91,0,1,No Deposit,Yes,1
+H0097,42,36-50,Family,East,Phone,Standard,4,2,138,400.6,3,0,Non-refundable,Yes,0
+H0098,48,36-50,Couple,South,Online Travel Agency,Standard,4,8,194,415.2,3,0,No Deposit,Yes,1
+H0099,50,36-50,Business,North,Direct,Deluxe,3,8,3,367.64,4,0,Non-refundable,Yes,0
+H0100,47,36-50,Business,West,Corporate,Standard,3,2,136,,4,0,No Deposit,No,1
+H0101,68,51+,Family,East,Corporate,Standard,2,8,191,152.31,0,0,Non-refundable,Yes,0
+H0102,78,51+,Family,West,Online Travel Agency,Deluxe,3,10,77,206.36,3,0,No Deposit,Yes,0
+H0103,69,51+,Family,South,Online Travel Agency,Standard,4,6,115,369.98,5,0,Partial Deposit,Yes,0
+H0104,67,51+,Family,East,Direct,Deluxe,1,7,144,373.37,2,0,No Deposit,No,0
+H0105,60,51+,Family,North,Corporate,Standard,4,11,44,119.22,3,0,Partial Deposit,No,0
+H0106,63,51+,Solo,South,Corporate,Suite,2,7,24,110.58,0,1,Partial Deposit,Yes,0
+H0107,57,51+,Solo,East,Online Travel Agency,Standard,3,1,22,213.26,5,0,Partial Deposit,No,0
+H0108,56,51+,Family,South,Online Travel Agency,Standard,2,9,189,285.98,1,1,No Deposit,No,1
+H0109,78,51+,Family,South,Online Travel Agency,Standard,1,2,29,370.84,5,0,Partial Deposit,No,0
+H0110,28,26-35,Family,North,Corporate,Deluxe,2,10,106,124.8,0,0,No Deposit,No,1
+H0111,60,51+,Business,South,Direct,Deluxe,1,6,45,339.86,0,0,Non-refundable,Yes,0
+H0112,37,36-50,Couple,East,Direct,Standard,3,9,37,357.12,5,0,No Deposit,Yes,0
+H0113,62,51+,Solo,West,Direct,Standard,1,10,221,294.83,0,1,No Deposit,Yes,1
+H0114,78,51+,Business,West,Phone,Standard,4,7,17,119.0,5,0,Partial Deposit,Yes,0
+H0115,38,36-50,Solo,West,Direct,Deluxe,2,2,33,308.85,2,0,No Deposit,Yes,0
+H0116,31,26-35,Business,East,Corporate,Standard,4,7,136,75.02,1,1,No Deposit,Yes,1
+H0117,31,26-35,Family,East,Online Travel Agency,Suite,5,8,151,228.52,1,0,Non-refundable,Yes,0
+H0118,54,51+,Couple,West,Online Travel Agency,Standard,3,7,67,369.86,5,1,Non-refundable,No,0
+H0119,75,51+,Business,South,Online Travel Agency,Standard,3,5,179,212.82,4,0,No Deposit,No,0
+H0120,64,51+,Business,North,Online Travel Agency,Standard,3,11,26,201.47,0,0,No Deposit,Yes,1
+H0121,33,26-35,Solo,West,Online Travel Agency,Suite,4,7,184,249.71,4,1,No Deposit,No,0
+H0122,39,36-50,Business,East,Online Travel Agency,Standard,4,3,246,402.5,3,0,No Deposit,Yes,1
+H0123,46,36-50,Business,East,Online Travel Agency,Standard,1,4,74,253.82,3,1,No Deposit,Yes,0
+H0124,54,51+,Family,East,Online Travel Agency,Deluxe,3,10,74,123.43,4,0,No Deposit,No,0
+H0125,32,26-35,Couple,North,Direct,Suite,2,2,160,173.37,0,0,No Deposit,Yes,0
+H0126,64,51+,Couple,East,Direct,Standard,2,12,48,297.42,1,0,No Deposit,No,0
+H0127,42,36-50,Business,South,Direct,Deluxe,2,3,255,371.71,0,0,Partial Deposit,No,0
+H0128,60,51+,Family,South,Online Travel Agency,Deluxe,3,6,39,90.25,2,0,Partial Deposit,No,0
+H0129,73,51+,Couple,West,Corporate,Standard,5,4,59,371.59,0,0,Partial Deposit,Yes,0
+H0130,60,51+,Couple,East,Online Travel Agency,Standard,3,12,181,360.19,1,0,Partial Deposit,Yes,1
+H0131,75,51+,Solo,South,Phone,Standard,4,5,176,303.69,1,1,No Deposit,No,1
+H0132,61,51+,Solo,West,Online Travel Agency,Deluxe,3,7,45,252.2,0,0,No Deposit,Yes,1
+H0133,52,51+,Family,East,Online Travel Agency,Standard,3,4,80,156.36,3,0,Partial Deposit,Yes,0
+H0134,43,36-50,Solo,West,Online Travel Agency,Standard,1,4,247,286.15,2,0,No Deposit,Yes,1
+H0135,37,36-50,Business,West,Corporate,Standard,3,4,28,319.18,1,0,No Deposit,No,1
+H0136,35,26-35,Family,East,Online Travel Agency,Deluxe,5,6,101,247.66,5,0,Partial Deposit,Yes,0
+H0137,67,51+,Business,West,Direct,Standard,3,5,175,156.39,1,0,No Deposit,No,1
+H0138,25,18-25,Business,South,Online Travel Agency,Standard,1,9,257,244.42,4,0,No Deposit,No,0
+H0139,48,36-50,Family,North,Direct,Standard,4,12,141,202.68,5,1,No Deposit,No,1
+H0140,71,51+,Couple,West,Online Travel Agency,Deluxe,1,10,218,371.21,2,1,Partial Deposit,Yes,1
+H0141,20,18-25,Couple,West,Online Travel Agency,Suite,3,5,68,157.56,5,0,Partial Deposit,Yes,0
+H0142,51,51+,Family,East,Online Travel Agency,Standard,3,5,227,172.99,4,0,No Deposit,No,1
+H0143,24,18-25,Business,North,Online Travel Agency,Standard,5,3,214,297.89,0,0,No Deposit,No,1
+H0144,57,51+,Couple,North,Phone,Standard,3,8,233,77.97,5,0,No Deposit,No,1
+H0145,61,51+,Solo,East,Online Travel Agency,Standard,1,10,117,91.97,1,0,Non-refundable,Yes,0
+H0146,47,36-50,Family,West,Online Travel Agency,Deluxe,3,8,237,326.4,0,1,No Deposit,Yes,1
+H0147,33,26-35,Solo,North,Online Travel Agency,Suite,1,7,163,404.6,4,0,No Deposit,No,1
+H0148,59,51+,Family,East,Online Travel Agency,Standard,1,3,82,331.65,3,1,No Deposit,Yes,0
+H0149,31,26-35,Solo,East,Phone,Standard,2,6,236,158.17,4,0,No Deposit,Yes,0
+H0150,54,51+,Couple,West,Online Travel Agency,Standard,5,1,101,358.19,4,0,Partial Deposit,Yes,0
+H0151,73,51+,Family,East,Phone,Deluxe,3,7,251,243.56,2,0,No Deposit,Yes,0
+H0152,56,51+,Business,South,Corporate,Deluxe,2,5,59,304.96,2,0,No Deposit,No,0
+H0153,35,26-35,Business,West,Phone,Deluxe,3,2,4,375.3,5,1,No Deposit,No,0
+H0154,44,36-50,Business,East,Phone,Standard,1,8,208,259.51,4,0,Partial Deposit,No,1
+H0155,64,51+,Business,West,Online Travel Agency,Suite,2,9,118,227.1,4,0,No Deposit,No,0
+H0156,21,18-25,Couple,South,Online Travel Agency,Deluxe,5,11,148,374.41,5,0,No Deposit,Yes,1
+H0157,68,51+,Family,East,Phone,Standard,3,6,4,375.72,1,0,No Deposit,No,0
+H0158,50,36-50,Family,South,Phone,Standard,1,2,7,261.77,3,0,No Deposit,No,0
+H0159,53,51+,Couple,East,Direct,Standard,4,8,176,199.27,4,0,Partial Deposit,No,0
+H0160,28,26-35,Business,East,Direct,Standard,5,7,181,184.59,0,1,Partial Deposit,No,1
+H0161,44,36-50,Solo,East,Online Travel Agency,Deluxe,4,11,225,151.21,3,2,No Deposit,No,1
+H0162,46,36-50,Family,South,Corporate,Standard,5,4,23,352.79,5,1,Partial Deposit,Yes,0
+H0163,21,18-25,Family,West,Phone,Deluxe,1,8,169,261.41,1,1,No Deposit,Yes,1
+H0164,30,26-35,Solo,North,Direct,Standard,3,7,257,207.27,5,0,No Deposit,No,1
+H0165,21,18-25,Solo,West,Online Travel Agency,Standard,4,7,78,304.5,4,2,No Deposit,Yes,1
+H0166,22,18-25,Solo,South,Online Travel Agency,Deluxe,5,10,186,295.14,1,0,No Deposit,Yes,1
+H0167,62,51+,Business,North,Corporate,Standard,2,6,139,171.64,2,0,No Deposit,No,0
+H0168,57,51+,Family,East,Phone,Standard,2,10,99,409.44,0,0,Partial Deposit,No,0
+H0169,74,51+,Family,East,Direct,Standard,1,11,81,294.72,2,0,Partial Deposit,No,0
+H0170,76,51+,Solo,West,Online Travel Agency,Standard,5,7,157,390.0,2,0,No Deposit,No,0
+H0171,52,51+,Business,West,Online Travel Agency,Standard,4,6,22,221.25,1,3,No Deposit,Yes,1
+H0172,31,26-35,Solo,West,Phone,Standard,2,5,112,346.51,2,0,Partial Deposit,No,0
+H0173,66,51+,Business,South,Online Travel Agency,Standard,5,11,41,387.93,0,0,No Deposit,Yes,0
+H0174,78,51+,Couple,South,Online Travel Agency,Standard,4,5,120,106.6,1,0,No Deposit,No,0
+H0175,49,36-50,Solo,North,Online Travel Agency,Deluxe,3,10,219,165.92,4,1,No Deposit,Yes,1
+H0176,37,36-50,Couple,North,Phone,Standard,4,3,226,405.63,4,0,No Deposit,Yes,0
+H0177,67,51+,Business,North,Online Travel Agency,Deluxe,1,1,118,,3,3,No Deposit,Yes,1
+H0178,67,51+,Couple,North,Direct,Standard,4,4,99,256.49,1,3,No Deposit,Yes,1
+H0179,63,51+,Solo,East,Online Travel Agency,Deluxe,5,1,142,191.99,2,0,Partial Deposit,Yes,1
+H0180,45,36-50,Family,West,Direct,Standard,2,12,208,387.87,2,0,No Deposit,No,1
+H0181,37,36-50,Solo,North,Direct,Deluxe,5,10,9,120.53,4,0,No Deposit,No,0
+H0182,31,26-35,Family,East,Online Travel Agency,Standard,1,12,246,77.01,2,0,No Deposit,Yes,1
+H0183,35,26-35,Solo,North,Online Travel Agency,Deluxe,4,5,57,162.97,0,0,No Deposit,No,0
+H0184,61,51+,Family,North,Online Travel Agency,Standard,1,6,85,307.58,0,0,No Deposit,No,1
+H0185,74,51+,Solo,South,Phone,Deluxe,5,6,248,269.66,3,0,No Deposit,No,1
+H0186,67,51+,Couple,North,Corporate,Standard,5,3,169,104.85,3,0,No Deposit,Yes,1
+H0187,56,51+,Couple,North,Corporate,Deluxe,5,1,24,114.37,2,0,Non-refundable,Yes,0
+H0188,64,51+,Solo,East,Online Travel Agency,Deluxe,3,8,20,191.21,1,0,No Deposit,No,0
+H0189,71,51+,Couple,West,Phone,Standard,1,3,34,259.68,5,0,Non-refundable,No,0
+H0190,34,26-35,Family,South,Direct,Deluxe,3,9,125,378.08,3,0,No Deposit,Yes,0
+H0191,68,51+,Couple,North,Direct,Deluxe,3,6,36,418.51,3,2,No Deposit,Yes,1
+H0192,73,51+,Couple,West,Direct,Deluxe,5,1,64,243.03,1,1,No Deposit,Yes,0
+H0193,32,26-35,Couple,North,Online Travel Agency,Standard,4,5,236,391.12,4,2,No Deposit,No,1
+H0194,49,36-50,Business,West,Online Travel Agency,Standard,5,10,105,210.15,2,0,No Deposit,No,1
+H0195,35,26-35,Solo,South,Online Travel Agency,Standard,3,5,19,119.0,3,3,No Deposit,Yes,1
+H0196,48,36-50,Business,East,Direct,Standard,1,8,127,178.73,4,0,Partial Deposit,Yes,0
+H0197,37,36-50,Solo,South,Direct,Standard,4,9,48,101.26,2,0,Partial Deposit,Yes,0
+H0198,48,36-50,Family,South,Phone,Deluxe,5,1,93,144.57,3,0,No Deposit,No,0
+H0199,53,51+,Business,North,Corporate,Suite,2,7,75,143.32,5,1,No Deposit,Yes,0
+H0200,24,18-25,Couple,West,Online Travel Agency,Standard,4,5,21,133.14,1,0,Partial Deposit,Yes,0
+H0201,21,18-25,Business,South,Online Travel Agency,Standard,5,6,57,123.67,1,1,No Deposit,No,1
+H0202,34,26-35,Couple,South,Direct,Standard,4,11,254,158.88,3,0,No Deposit,Yes,0
+H0203,65,51+,Family,South,Online Travel Agency,Suite,2,9,199,275.73,1,2,Partial Deposit,Yes,1
+H0204,30,26-35,Solo,North,Direct,Standard,4,6,83,365.33,3,0,Partial Deposit,No,0
+H0205,73,51+,Family,North,Phone,Suite,2,1,90,334.41,3,0,Partial Deposit,No,0
+H0206,69,51+,Couple,South,Phone,Deluxe,5,11,13,,5,1,No Deposit,No,0
+H0207,30,26-35,Family,West,Direct,Deluxe,2,2,214,203.73,0,0,No Deposit,Yes,1
+H0208,33,26-35,Business,East,Online Travel Agency,Standard,3,2,189,191.4,5,0,No Deposit,Yes,1
+H0209,27,26-35,Solo,East,Online Travel Agency,Deluxe,2,6,36,165.21,5,1,Non-refundable,No,0
+H0210,46,36-50,Solo,North,Online Travel Agency,Standard,1,11,239,301.9,1,0,No Deposit,Yes,1
+H0211,55,51+,Business,East,Direct,Standard,1,10,32,143.41,1,0,No Deposit,Yes,0
+H0212,51,51+,Family,East,Online Travel Agency,Suite,2,5,116,148.69,0,0,No Deposit,Yes,0
+H0213,42,36-50,Solo,East,Direct,Standard,1,9,156,265.21,5,0,Partial Deposit,Yes,0
+H0214,45,36-50,Solo,South,Direct,Deluxe,2,2,61,407.9,2,1,No Deposit,No,1
+H0215,62,51+,Couple,West,Direct,Standard,2,4,173,261.1,4,1,Non-refundable,No,0
+H0216,70,51+,Family,West,Online Travel Agency,Standard,4,7,153,417.23,4,0,Non-refundable,No,0
+H0217,71,51+,Family,South,Online Travel Agency,Standard,2,1,104,,0,2,Partial Deposit,No,1
+H0218,76,51+,Family,West,Direct,Deluxe,3,5,82,100.33,1,0,Non-refundable,Yes,0
+H0219,53,51+,Solo,East,Direct,Standard,4,6,112,125.75,5,0,Partial Deposit,No,0
+H0220,38,36-50,Family,South,Direct,Deluxe,4,1,235,111.75,2,0,Partial Deposit,Yes,0
+H0221,47,36-50,Family,East,Phone,Suite,2,1,172,307.74,1,0,No Deposit,Yes,0
+H0222,67,51+,Couple,West,Online Travel Agency,Standard,5,1,15,314.47,1,1,No Deposit,No,1
+H0223,33,26-35,Solo,East,Direct,Standard,1,8,242,96.02,5,0,No Deposit,No,1
+H0224,47,36-50,Solo,East,Direct,Deluxe,5,7,82,169.9,0,0,Partial Deposit,No,0
+H0225,19,18-25,Couple,South,Direct,Deluxe,3,12,188,229.0,4,0,No Deposit,Yes,1
+H0226,31,26-35,Family,South,Online Travel Agency,Standard,2,9,260,230.81,3,0,No Deposit,No,1
+H0227,45,36-50,Business,South,Direct,Standard,2,9,19,136.54,1,0,Partial Deposit,Yes,0
+H0228,40,36-50,Family,South,Online Travel Agency,Standard,1,8,185,116.22,4,0,No Deposit,No,1
+H0229,59,51+,Solo,North,Direct,Standard,3,6,111,283.79,2,0,No Deposit,Yes,1
+H0230,29,26-35,Solo,East,Online Travel Agency,Standard,3,11,47,414.55,2,2,No Deposit,No,1
+H0231,22,18-25,Family,East,Online Travel Agency,Standard,1,11,65,200.61,4,0,No Deposit,No,0
+H0232,65,51+,Solo,North,Online Travel Agency,Standard,4,1,249,230.84,0,1,No Deposit,Yes,1
+H0233,74,51+,Family,South,Direct,Standard,1,10,58,218.84,2,2,Partial Deposit,Yes,0
+H0234,55,51+,Family,West,Online Travel Agency,Deluxe,1,8,212,233.87,5,0,No Deposit,Yes,1
+H0235,43,36-50,Couple,East,Phone,Suite,2,5,43,308.18,4,1,No Deposit,Yes,0
+H0236,21,18-25,Couple,North,Online Travel Agency,Deluxe,3,9,79,,4,0,Partial Deposit,No,0
+H0237,30,26-35,Family,West,Direct,Standard,5,5,134,250.33,1,0,Non-refundable,No,0
+H0238,50,36-50,Solo,South,Phone,Standard,5,8,4,389.82,1,1,No Deposit,No,0
+H0239,59,51+,Solo,East,Online Travel Agency,Standard,3,7,94,170.73,2,0,No Deposit,No,0
+H0240,39,36-50,Business,West,Online Travel Agency,Standard,1,3,128,236.57,4,0,No Deposit,Yes,0
+H0241,62,51+,Business,North,Online Travel Agency,Standard,4,5,92,164.01,0,1,No Deposit,Yes,1
+H0242,54,51+,Solo,East,Online Travel Agency,Deluxe,3,12,119,80.85,3,3,No Deposit,Yes,1
+H0243,34,26-35,Couple,North,Phone,Deluxe,2,4,31,117.73,3,0,No Deposit,Yes,0
+H0244,70,51+,Business,East,Online Travel Agency,Standard,3,8,181,111.58,4,1,Non-refundable,Yes,1
+H0245,76,51+,Family,South,Online Travel Agency,Deluxe,2,12,102,82.52,1,0,Partial Deposit,No,0
+H0246,23,18-25,Couple,East,Direct,Standard,4,3,241,366.92,1,0,No Deposit,No,1
+H0247,68,51+,Solo,South,Online Travel Agency,Deluxe,3,6,221,334.94,4,0,No Deposit,No,0
+H0248,25,18-25,Business,West,Corporate,Standard,3,6,182,196.63,4,0,Non-refundable,No,0
+H0249,59,51+,Business,North,Online Travel Agency,Standard,1,1,100,289.2,1,1,No Deposit,Yes,1
+H0250,66,51+,Family,South,Direct,Standard,2,5,37,90.36,4,0,No Deposit,Yes,0
+H0251,33,26-35,Solo,South,Online Travel Agency,Standard,4,3,21,200.09,5,1,No Deposit,Yes,1
+H0252,61,51+,Solo,North,Online Travel Agency,Standard,5,9,94,196.15,3,0,No Deposit,No,1
+H0253,24,18-25,Couple,East,Corporate,Standard,1,6,14,293.87,3,0,No Deposit,Yes,0
+H0254,68,51+,Solo,East,Online Travel Agency,Standard,1,1,207,342.38,2,2,No Deposit,Yes,1
+H0255,48,36-50,Couple,West,Direct,Standard,1,10,145,416.67,5,0,No Deposit,No,0
+H0256,31,26-35,Family,South,Online Travel Agency,Standard,3,5,201,280.66,1,0,Partial Deposit,Yes,1
+H0257,47,36-50,Couple,West,Online Travel Agency,Standard,2,2,243,376.35,5,0,No Deposit,No,1
+H0258,45,36-50,Solo,North,Direct,Standard,3,4,168,372.21,1,2,No Deposit,Yes,1
+H0259,47,36-50,Solo,South,Online Travel Agency,Suite,5,9,210,340.19,5,1,No Deposit,No,1
+H0260,44,36-50,Couple,South,Online Travel Agency,Deluxe,3,12,23,318.35,5,0,Partial Deposit,Yes,0
+H0261,59,51+,Couple,North,Direct,Suite,1,5,106,176.17,5,0,Partial Deposit,No,0
+H0262,65,51+,Couple,East,Corporate,Standard,4,1,127,392.9,2,1,Non-refundable,No,0
+H0263,21,18-25,Solo,South,Online Travel Agency,Deluxe,2,2,242,150.98,1,0,No Deposit,Yes,1
+H0264,27,26-35,Couple,West,Online Travel Agency,Standard,5,4,175,204.6,1,0,No Deposit,Yes,0
+H0265,55,51+,Business,North,Phone,Standard,2,1,235,325.06,3,0,No Deposit,Yes,1
+H0266,19,18-25,Solo,West,Corporate,Standard,4,6,63,217.87,3,0,Non-refundable,Yes,0
+H0267,73,51+,Couple,South,Corporate,Standard,4,1,235,137.26,0,0,No Deposit,Yes,1
+H0268,42,36-50,Business,West,Online Travel Agency,Deluxe,1,3,185,127.88,1,0,No Deposit,Yes,1
+H0269,31,26-35,Couple,East,Online Travel Agency,Standard,1,3,179,230.24,2,0,Partial Deposit,No,0
+H0270,59,51+,Solo,South,Phone,Standard,4,3,124,172.49,2,1,Non-refundable,Yes,0
+H0271,24,18-25,Business,South,Online Travel Agency,Standard,2,4,27,225.65,5,0,No Deposit,No,0
+H0272,49,36-50,Couple,West,Corporate,Deluxe,5,5,259,245.04,2,0,No Deposit,No,0
+H0273,67,51+,Family,West,Online Travel Agency,Standard,1,3,87,77.24,0,1,No Deposit,Yes,1
+H0274,59,51+,Business,North,Online Travel Agency,Deluxe,5,6,203,89.61,4,0,Non-refundable,Yes,0
+H0275,43,36-50,Family,East,Direct,Standard,4,10,167,104.86,0,0,No Deposit,Yes,1
+H0276,21,18-25,Family,North,Corporate,Standard,5,8,215,332.91,1,0,No Deposit,Yes,1
+H0277,56,51+,Family,West,Direct,Standard,2,11,124,414.63,5,2,No Deposit,Yes,1
+H0278,73,51+,Family,West,Direct,Deluxe,3,12,126,197.53,4,0,No Deposit,No,0
+H0279,71,51+,Family,East,Online Travel Agency,Suite,4,8,176,333.74,4,2,No Deposit,No,1
+H0280,22,18-25,Family,South,Online Travel Agency,Deluxe,4,9,250,412.01,3,0,No Deposit,Yes,1
+H0281,45,36-50,Solo,South,Direct,Deluxe,4,4,45,297.33,5,0,Partial Deposit,No,0
+H0282,52,51+,Business,South,Corporate,Standard,5,1,107,313.37,0,1,Partial Deposit,Yes,0
+H0283,56,51+,Couple,East,Corporate,Standard,4,10,194,392.62,3,2,Partial Deposit,No,1
+H0284,62,51+,Couple,East,Phone,Deluxe,5,7,233,297.72,5,1,No Deposit,Yes,1
+H0285,71,51+,Couple,South,Online Travel Agency,Deluxe,2,4,64,287.54,5,0,No Deposit,Yes,0
+H0286,60,51+,Business,West,Direct,Deluxe,4,6,181,308.75,4,0,No Deposit,Yes,1
+H0287,29,26-35,Solo,North,Online Travel Agency,Deluxe,3,4,248,340.44,1,0,No Deposit,Yes,1
+H0288,61,51+,Business,West,Direct,Suite,4,11,152,395.39,3,0,No Deposit,Yes,0
+H0289,52,51+,Family,North,Online Travel Agency,Standard,3,12,94,290.75,3,0,Partial Deposit,No,0
+H0290,66,51+,Family,East,Corporate,Deluxe,4,8,16,323.02,5,0,Non-refundable,No,0
+H0291,23,18-25,Business,North,Online Travel Agency,Deluxe,4,12,249,88.89,4,0,No Deposit,No,0
+H0292,46,36-50,Business,South,Phone,Suite,2,7,18,398.95,0,0,No Deposit,Yes,0
+H0293,69,51+,Solo,West,Corporate,Standard,1,8,177,164.72,3,0,No Deposit,No,1
+H0294,32,26-35,Business,West,Online Travel Agency,Deluxe,5,9,135,271.0,4,0,No Deposit,No,0
+H0295,45,36-50,Business,East,Phone,Standard,1,5,152,273.94,3,0,No Deposit,Yes,1
+H0296,34,26-35,Business,North,Direct,Standard,1,11,205,185.17,1,0,No Deposit,Yes,1
+H0297,26,26-35,Business,West,Corporate,Suite,2,6,220,338.45,5,0,No Deposit,No,1
+H0298,56,51+,Family,North,Corporate,Standard,3,3,205,279.83,2,0,Non-refundable,Yes,1
+H0299,30,26-35,Business,South,Online Travel Agency,Standard,2,9,145,226.09,4,0,No Deposit,Yes,1
+H0300,22,18-25,Family,West,Corporate,Standard,3,12,126,278.34,4,0,No Deposit,No,0
+H0301,27,26-35,Family,South,Phone,Deluxe,3,6,216,343.05,1,0,Partial Deposit,No,1
+H0302,59,51+,Solo,West,Corporate,Deluxe,2,7,106,384.79,5,0,No Deposit,No,0
+H0303,42,36-50,Business,West,Phone,Standard,2,5,217,328.45,5,1,Non-refundable,Yes,0
+H0304,56,51+,Business,East,Phone,Standard,5,4,178,294.96,0,0,No Deposit,No,0
+H0305,60,51+,Family,West,Corporate,Deluxe,4,12,72,356.81,5,3,No Deposit,No,1
+H0306,47,36-50,Couple,North,Online Travel Agency,Deluxe,4,9,134,223.35,0,0,No Deposit,Yes,0
+H0307,73,51+,Business,East,Online Travel Agency,Standard,5,2,205,264.28,4,0,Partial Deposit,No,1
+H0308,24,18-25,Solo,South,Phone,Deluxe,2,4,156,344.56,4,0,No Deposit,No,0
+H0309,36,36-50,Solo,East,Phone,Standard,1,9,128,399.98,4,0,No Deposit,Yes,1
+H0310,69,51+,Family,South,Phone,Deluxe,1,4,246,255.02,4,0,Partial Deposit,No,0
+H0311,69,51+,Family,East,Online Travel Agency,Standard,4,4,94,376.14,1,0,No Deposit,No,1
+H0312,46,36-50,Family,East,Online Travel Agency,Standard,4,3,72,108.82,2,0,No Deposit,No,0
+H0313,34,26-35,Couple,South,Online Travel Agency,Deluxe,2,10,154,229.65,4,0,No Deposit,Yes,0
+H0314,71,51+,Couple,West,Online Travel Agency,Deluxe,4,9,41,219.63,2,0,Partial Deposit,Yes,0
+H0315,73,51+,Family,West,Corporate,Suite,1,2,86,228.43,0,0,No Deposit,No,0
+H0316,62,51+,Business,South,Direct,Standard,5,1,87,370.51,1,0,Non-refundable,No,0
+H0317,53,51+,Family,South,Direct,Deluxe,2,2,179,275.4,4,0,Partial Deposit,No,0
+H0318,18,18-25,Solo,West,Direct,Standard,1,8,157,358.8,1,0,No Deposit,No,1
+H0319,32,26-35,Family,South,Online Travel Agency,Deluxe,5,11,176,175.63,5,0,No Deposit,Yes,0
+H0320,77,51+,Family,South,Direct,Standard,2,11,135,249.88,5,0,No Deposit,No,0
+H0321,35,26-35,Business,East,Direct,Standard,2,1,54,380.44,5,0,No Deposit,Yes,0
+H0322,72,51+,Business,South,Online Travel Agency,Suite,1,4,233,163.68,5,0,No Deposit,No,0
+H0323,31,26-35,Couple,South,Online Travel Agency,Standard,1,12,202,203.11,0,0,No Deposit,No,1
+H0324,25,18-25,Family,East,Online Travel Agency,Standard,5,9,150,122.22,3,0,Non-refundable,Yes,0
+H0325,74,51+,Family,West,Direct,Deluxe,1,8,242,263.1,4,1,Partial Deposit,No,0
+H0326,48,36-50,Couple,East,Direct,Standard,4,2,144,138.88,5,0,Non-refundable,No,0
+H0327,22,18-25,Family,West,Online Travel Agency,Standard,2,6,128,274.45,4,0,No Deposit,No,1
+H0328,43,36-50,Family,South,Online Travel Agency,Suite,4,5,170,90.54,4,0,No Deposit,No,0
+H0329,54,51+,Business,South,Direct,Deluxe,1,12,175,335.91,5,1,No Deposit,No,1
+H0330,71,51+,Family,North,Online Travel Agency,Standard,5,5,216,290.32,3,0,Partial Deposit,Yes,1
+H0331,53,51+,Business,North,Direct,Standard,5,4,170,92.95,2,0,Partial Deposit,Yes,0
+H0332,35,26-35,Couple,North,Direct,Standard,4,11,46,310.75,1,0,Partial Deposit,No,0
+H0333,20,18-25,Family,East,Direct,Deluxe,3,10,131,354.58,5,0,Partial Deposit,No,0
+H0334,37,36-50,Couple,North,Online Travel Agency,Deluxe,3,3,232,402.06,2,0,No Deposit,No,1
+H0335,66,51+,Solo,South,Corporate,Standard,1,5,30,254.86,2,0,No Deposit,No,0
+H0336,33,26-35,Family,North,Online Travel Agency,Standard,5,2,77,155.42,2,0,No Deposit,Yes,1
+H0337,24,18-25,Business,East,Corporate,Standard,2,4,211,197.63,2,0,No Deposit,No,0
+H0338,60,51+,Business,West,Online Travel Agency,Deluxe,4,6,171,160.02,1,0,Non-refundable,No,1
+H0339,27,26-35,Solo,South,Corporate,Suite,1,2,101,304.29,4,0,Non-refundable,Yes,0
+H0340,35,26-35,Business,South,Online Travel Agency,Suite,3,8,184,77.35,4,0,Partial Deposit,Yes,0
+H0341,39,36-50,Family,North,Online Travel Agency,Standard,4,5,223,277.82,3,0,No Deposit,No,0
+H0342,43,36-50,Solo,North,Corporate,Standard,3,2,211,246.1,5,0,No Deposit,Yes,0
+H0343,51,51+,Couple,South,Corporate,Deluxe,2,1,255,129.32,2,0,No Deposit,No,1
+H0344,72,51+,Couple,West,Online Travel Agency,Suite,4,1,241,287.52,2,0,Partial Deposit,No,0
+H0345,25,18-25,Family,South,Online Travel Agency,Suite,3,6,158,240.26,1,0,No Deposit,Yes,1
+H0346,64,51+,Solo,North,Online Travel Agency,Deluxe,5,2,238,102.75,1,0,No Deposit,No,1
+H0347,52,51+,Family,West,Online Travel Agency,Standard,4,2,146,306.04,2,1,No Deposit,Yes,1
+H0348,55,51+,Couple,South,Direct,Standard,2,11,121,290.37,3,1,Partial Deposit,No,0
+H0349,67,51+,Family,South,Online Travel Agency,Standard,3,11,179,259.46,0,1,No Deposit,No,1
+H0350,69,51+,Couple,West,Online Travel Agency,Deluxe,5,11,189,303.8,4,0,No Deposit,Yes,1
