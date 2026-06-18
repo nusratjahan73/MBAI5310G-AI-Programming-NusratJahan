@@ -15,7 +15,7 @@
 | GitHub repository | [MBAI5310G-AI-Programming-NusratJahan](https://github.com/nusratjahan73/MBAI5310G-AI-Programming-NusratJahan) |
 | Portfolio | [nusratjahan73.github.io](https://nusratjahan73.github.io/) |
 | Research proposal | Final research paper (see the final_project folder) |
-| Final presentation | Final Presentation slides (10 slides) |
+| Final presentation | [Click to View on Canva](https://canva.link/in39nk8ubqw6kuz) |
 
 ## Table of Contents
 
